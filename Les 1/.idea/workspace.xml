@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35519547-d6a0-46ed-8fd4-e540a06b72fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOrientedProgamming/waterfles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgamming/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgamming/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOrientedProgamming/waterfles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOrientedProgamming/Auto.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,12 +22,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="212" />
+          <entry key="java" value="232" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="212" />
+          <entry key="JAVA" value="232" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,17 +47,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ObjectOrientedProgamming/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="272">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ObjectOrientedProgamming/waterfles.java">
+        <entry file="file://$PROJECT_DIR$/src/ObjectOrientedProgamming/Auto.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+            <state relative-caret-position="442">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -77,8 +77,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ObjectOrientedProgamming/waterfles.java" />
         <option value="$PROJECT_DIR$/src/ObjectOrientedProgamming/Main.java" />
+        <option value="$PROJECT_DIR$/src/ObjectOrientedProgamming/waterfles.java" />
+        <option value="$PROJECT_DIR$/src/ObjectOrientedProgamming/Auto.java" />
       </list>
     </option>
   </component>
@@ -107,7 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/OOP_PracticumOpdr_3" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documenten/Hogeschool van Amsterdam/OOP1/Auto test" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -151,7 +152,7 @@
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494577" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.112798266" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
@@ -159,7 +160,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -177,17 +178,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ObjectOrientedProgamming/waterfles.java">
+    <entry file="file://$PROJECT_DIR$/src/ObjectOrientedProgamming/Auto.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="442">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ObjectOrientedProgamming/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
