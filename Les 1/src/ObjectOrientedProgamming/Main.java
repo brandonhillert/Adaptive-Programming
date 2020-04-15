@@ -5,18 +5,9 @@ public class Main {
     public static void main(String[] args) {
 
 
-        Auto merrie = new Auto("V8");
+        Auto bmw = new Auto("blauw","BMW","X5", 250);
 
-        merrie.setMerk("Mercedes");
-        merrie.setType("AMG");
-        merrie.setKleur("Zwart");
-        merrie.setSnelheid(300);
-        merrie.getTest();
-
-
-
-        System.out.println(merrie.getTest());
-        System.out.println(merrie.merk + " "+ merrie.type + " " + merrie.snelheid +" "+  merrie.kleur);
+        System.out.println(bmw.kleur);
 
     }
 }

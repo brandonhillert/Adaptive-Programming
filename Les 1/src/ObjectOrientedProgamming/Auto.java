@@ -8,25 +8,14 @@ public class Auto {
     public int snelheid;
 
 
-    //Constructor
-    public Auto(String test){
-        this.kleur = "Blauw";
+    public Auto(String kleur, String merk, String type, int snelheid) {
+        this.kleur = kleur;
+        this.merk = merk;
+        this.type = type;
+        this.snelheid = snelheid;
     }
 
 
-
-    //Set de waarde van een attribuut
-    public void setMerk(String merk) { this.merk = merk; }
-
-    public void setType(String type) { this.type = type; }
-
-    public void setSnelheid(int snelheid){ this.snelheid = snelheid; }
-
-    public void setKleur(String kleur) { this.kleur = kleur; }
-
-
-
-    public String getTest() { return kleur; }
 
 
 
