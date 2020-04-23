@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80920806-8431-4a45-99bc-fd465e543746" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOrientedProgamming/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Huisjesmelken/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Huisjesmelken/src/ObjectOrientedProgamming/Huis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Huisjesmelken/src/ObjectOrientedProgamming/Persoon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Les 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Les 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Huisjesmelken/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Huisjesmelken/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,6 +15,7 @@
     <session id="-622969362">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -130,6 +125,9 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -180,7 +178,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30923247" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30923247" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
