@@ -7,8 +7,7 @@ public class Voetbalclub {
     private String naam;
     private String afkorting;
     private String locatie;
-    //private int velden;
-    private List<Team> teamList = new ArrayList<>();
+    private List<String> teamList = new ArrayList<>();
 
 
     public Voetbalclub(String naam, String afkorting, String locatie) {
@@ -16,9 +15,6 @@ public class Voetbalclub {
         this.afkorting = afkorting;
         this.locatie = locatie;
 
-    }
-
-    public Voetbalclub() {
     }
 
     public String getNaam() {
@@ -48,13 +44,13 @@ public class Voetbalclub {
 
 
     public void addTeams(Team team){
-        this.teamList.add(team);
+        this.teamList.add(team.getNaam());
     }
 
 
     @Override
     public String toString() {
-        return "Voetbalclub "+ naam + ", ook wel:" + afkorting + " uit " + locatie + "bestaat uit de volgende teams:" + teamList;
+        return "Voetbalclub "+ naam + ", ook wel: " + afkorting + " uit " + locatie + " bestaat uit de volgende teams:" + teamList;
     }
 }
 

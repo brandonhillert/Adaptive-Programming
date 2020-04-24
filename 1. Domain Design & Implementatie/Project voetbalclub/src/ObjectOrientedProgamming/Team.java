@@ -2,7 +2,7 @@ package ObjectOrientedProgamming;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Team {
+public class Team{
 
     private String naam;
     private List<Speler> spelerList = new ArrayList<>();
@@ -17,27 +17,28 @@ public class Team {
         return naam;
     }
 
-
     public void addSpeler(Speler speler){
         this.spelerList.add(speler);
-    }
-
-    public List<Speler> getSpelerList() {
-        return spelerList;
     }
 
     public void setTrainer(Trainer trainer) {
         this.trainer = trainer;
     }
 
-    @Override
-    public String toString() {
-        return "Team: " + naam + '\'' +
-                ", trainer=" + trainer +
-                ", spelerList=" + spelerList;
+    public Trainer getTrainer() {
+        return trainer;
     }
 
 
+    public List<Speler> getSpelerList() {
+        return spelerList;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Team: " + naam + "\n"+ trainer + "\nSpelersLijst :\n" + spelerList;
+    }
 
 
 }

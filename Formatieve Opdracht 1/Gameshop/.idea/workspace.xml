@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35bb1e5f-eaee-4dce-bcc8-489ef68d7c4f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../1. Domain Design &amp; Implementatie/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1. Domain Design &amp; Implementatie/src/ObjectOrientedProgamming/Speler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1. Domain Design &amp; Implementatie/src/ObjectOrientedProgamming/Team.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1. Domain Design &amp; Implementatie/src/ObjectOrientedProgamming/Trainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1. Domain Design &amp; Implementatie/src/ObjectOrientedProgamming/Voetbalclub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1. Domain Design &amp; Implementatie/src/ObjectOrientedProgamming/Wedstrijd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOrientedProgamming/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectOrientedProgamming/Persoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Opstart in OOO/Test/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel/Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Formatieve opdracht 1a Autoverhuur &amp; Gameswinkel/src/ObjectOrientedProgamming/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Opstart in OOO/Docenten en Studenten/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Opstart in OOO/Docenten en Studenten/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Opstart in OOO/Huisjesmelken/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Opstart in OOO/Huisjesmelken/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1. Domain Design &amp; Implementatie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1. Domain Design &amp; Implementatie/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,6 +15,7 @@
     <session id="708400229">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -117,10 +99,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="772" />
-    <option name="y" value="-20" />
-    <option name="width" value="641" />
-    <option name="height" value="504" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="2279" />
+    <option name="height" value="1466" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -206,7 +188,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35545024" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35545024" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

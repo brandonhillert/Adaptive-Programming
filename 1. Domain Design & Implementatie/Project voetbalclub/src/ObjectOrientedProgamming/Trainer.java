@@ -1,36 +1,38 @@
 package ObjectOrientedProgamming;
 
-public class Speler {
+public class Trainer {
 
     private String voornaam;
     private String achternaam;
-    private int rugnummer;
-    //private String positie;
-    //private int leeftijd;
 
 
-    public Speler(String voornaam, String achternaam, int rugnummer) {
+    public Trainer(String voornaam, String achternaam) {
         this.voornaam = voornaam;
         this.achternaam = achternaam;
-        this.rugnummer = rugnummer;
     }
 
+    public Trainer() {
+    }
 
     public String getVoornaam() {
         return voornaam;
+    }
+
+    public void setVoornaam(String voornaam) {
+        this.voornaam = voornaam;
     }
 
     public String getAchternaam() {
         return achternaam;
     }
 
-    public int getRugnummer() {
-        return rugnummer;
+    public void setAchternaam(String achternaam) {
+        this.achternaam = achternaam;
     }
 
 
     @Override
     public String toString() {
-        return "Speler: " + voornaam + " " + achternaam + "= nr."+ rugnummer + "\n";
+        return "Trainer: " + voornaam +" "+  achternaam;
     }
 }

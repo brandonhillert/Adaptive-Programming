@@ -29,4 +29,10 @@ public class Trainer {
     public void setAchternaam(String achternaam) {
         this.achternaam = achternaam;
     }
+
+
+    @Override
+    public String toString() {
+        return "Trainer: " + voornaam +" "+  achternaam;
+    }
 }
